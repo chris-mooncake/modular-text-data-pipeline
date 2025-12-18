@@ -13,7 +13,7 @@ The focus is on:
 
 ## 📂 Project Structure
 
-.
+```
 ├── data/
 │ └── text_emotion.csv (not in present in this repository)
 ├── src/
@@ -24,7 +24,7 @@ The focus is on:
 │ └── main.py
 ├── README.md
 └── requirements.txt
-
+```
 
 ---
 
