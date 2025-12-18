@@ -15,7 +15,7 @@ The focus is on:
 
 ```
 ├── data/
-│ └── text_emotion.csv (not in present in this repository)
+│ └── text_emotion.csv (not present in this repository)
 ├── src/
 │ ├── data_loader.py
 │ ├── preprocessing.py
